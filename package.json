@@ -1,0 +1,26 @@
+{
+  "name": "edukatorsProject",
+  "version": "0.0.0",
+  "description": "firstCommit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Robsonsjrx/edukatorsAnswers.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Robsonsjrx/edukatorsAnswers/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "require-dir": "~0.3.0",
+    "body-parser": "~1.13.3",
+    "react": "~0.13.3",
+    "ejs": "~2.3.4",
+    "bootstrap": "~3.3.5"
+  }
+}
